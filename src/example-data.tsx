@@ -10,7 +10,7 @@ const exampleData = {
 
   sections: {
     educations: [
-    {
+      {
         degree: "Diploma in Full-stack Web Development",
         schoolName: "BrainStation",
         location: "Vancouver, BC, CA",
